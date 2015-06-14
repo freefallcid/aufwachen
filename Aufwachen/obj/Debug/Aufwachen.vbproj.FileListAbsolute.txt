@@ -1,0 +1,10 @@
+C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\bin\Debug\Aufwachen.exe.config
+C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\bin\Debug\Aufwachen.exe
+C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\bin\Debug\Aufwachen.pdb
+C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\bin\Debug\Aufwachen.xml
+C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\obj\Debug\Aufwachen.frm_Main.resources
+C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\obj\Debug\Aufwachen.Resources.resources
+C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\obj\Debug\Aufwachen.vbproj.GenerateResource.Cache
+C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\obj\Debug\Aufwachen.exe
+C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\obj\Debug\Aufwachen.xml
+C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\obj\Debug\Aufwachen.pdb
