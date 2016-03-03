@@ -37,11 +37,11 @@ Public Class frm_Main
     End Sub
 
     Private Sub btn_defined_2_Click(sender As Object, e As EventArgs) Handles btn_defined_2.Click
-        txt_mac.Text = "2C:41:38:B2:24:02"
+        txt_mac.Text = "68:05:CA:3E:09:DC"
     End Sub
 
     Private Sub btn_defined_3_Click(sender As Object, e As EventArgs) Handles btn_defined_3.Click
-        txt_mac.Text = "00:15:58:C5:3A:9C"
+        txt_mac.Text = "90:E6:BA:0A:BB:E5"
     End Sub
 
     Private Sub btn_help_Click(sender As Object, e As EventArgs) Handles btn_help.Click

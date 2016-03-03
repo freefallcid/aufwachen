@@ -38,7 +38,7 @@ Partial Class frm_Status
         '
         'timer_status
         '
-        Me.timer_status.Interval = 5000
+        Me.timer_status.Interval = 50
         '
         'frm_Status
         '

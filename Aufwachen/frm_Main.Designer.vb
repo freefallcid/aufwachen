@@ -73,7 +73,7 @@ Partial Class frm_Main
         Me.btn_defined_1.Name = "btn_defined_1"
         Me.btn_defined_1.Size = New System.Drawing.Size(147, 33)
         Me.btn_defined_1.TabIndex = 4
-        Me.btn_defined_1.Text = "MONSTER"
+        Me.btn_defined_1.Text = "&BÜRO"
         Me.btn_defined_1.UseVisualStyleBackColor = True
         '
         'btn_defined_2
@@ -82,7 +82,7 @@ Partial Class frm_Main
         Me.btn_defined_2.Name = "btn_defined_2"
         Me.btn_defined_2.Size = New System.Drawing.Size(147, 33)
         Me.btn_defined_2.TabIndex = 5
-        Me.btn_defined_2.Text = "BUERO"
+        Me.btn_defined_2.Text = "&DESKTOP-IM5196M"
         Me.btn_defined_2.UseVisualStyleBackColor = True
         '
         'btn_defined_3
@@ -91,9 +91,8 @@ Partial Class frm_Main
         Me.btn_defined_3.Name = "btn_defined_3"
         Me.btn_defined_3.Size = New System.Drawing.Size(147, 33)
         Me.btn_defined_3.TabIndex = 6
-        Me.btn_defined_3.Text = "WEITERER PC"
+        Me.btn_defined_3.Text = "D&ANIELR"
         Me.btn_defined_3.UseVisualStyleBackColor = True
-        Me.btn_defined_3.Visible = False
         '
         'frm_Main
         '
