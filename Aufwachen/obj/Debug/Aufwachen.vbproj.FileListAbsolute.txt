@@ -8,3 +8,4 @@ C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\obj\Debug\Aufwachen.
 C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\obj\Debug\Aufwachen.exe
 C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\obj\Debug\Aufwachen.xml
 C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\obj\Debug\Aufwachen.pdb
+C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\bin\Debug\Aufwachen.exe.config
