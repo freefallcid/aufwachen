@@ -4,10 +4,13 @@
     <PublishUrlHistory>Z:\Aufwachen\|Z:\|publish\</PublishUrlHistory>
     <InstallUrlHistory>http://tools.dominicreich.com/Aufwachen/</InstallUrlHistory>
     <SupportUrlHistory>http://tmsn.at/%3ftools&amp;aufwachen</SupportUrlHistory>
-    <UpdateUrlHistory />
+    <UpdateUrlHistory>http://tools.dominicreich.com/Aufwachen/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory>https://github.com/freefallcid/aufwachen/issues</ErrorReportUrlHistory>
     <FallbackCulture>de-DE</FallbackCulture>
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
   </PropertyGroup>
 </Project>

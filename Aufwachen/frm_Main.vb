@@ -51,10 +51,10 @@ Public Class frm_Main
     Private Sub btn_wake_Click(sender As Object, e As EventArgs) Handles btn_wake.Click
         'On Error Resume Next
         On Error GoTo Do_Error
-        Me.Enabled = False
-        frm_Status.lbl_status.Text = "Magic Packet wird an " & Me.txt_mac.Text & " gesendet."
-        frm_Status.ShowDialog()
-        WakeOnLAN(txt_mac.Text.Replace(":", "").ToString)
+        'Me.Enabled = False
+        'frm_Status.lbl_status.Text = "Magic Packet wird an " & Me.txt_mac.Text & " gesendet."
+        'frm_Status.ShowDialog()
+        WakeOnLAN(txt_mac.Text.Replace(":", ""))
         'WakeOnLAN(txt_mac.Text.ToString)
         Exit Sub
 Do_Error:

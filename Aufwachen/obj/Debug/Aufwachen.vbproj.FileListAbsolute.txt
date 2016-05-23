@@ -9,3 +9,16 @@ C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\obj\Debug\Aufwachen.
 C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\obj\Debug\Aufwachen.xml
 C:\Users\Dominic\AppData\Local\Temporary Projects\Aufwachen\obj\Debug\Aufwachen.pdb
 C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\bin\Debug\Aufwachen.exe.config
+C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\bin\Debug\Aufwachen.exe.manifest
+C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\bin\Debug\Aufwachen.application
+C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\bin\Debug\Aufwachen.exe
+C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\bin\Debug\Aufwachen.pdb
+C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\obj\Debug\Aufwachen.frm_Main.resources
+C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\obj\Debug\Aufwachen.frm_Status.resources
+C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\obj\Debug\Aufwachen.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\obj\Debug\Aufwachen.vbproj.GenerateResource.Cache
+C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\obj\Debug\Aufwachen.exe.manifest
+C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\obj\Debug\Aufwachen.application
+C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\obj\Debug\Aufwachen.exe
+C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\obj\Debug\Aufwachen.pdb
+C:\Users\Dominic\Documents\Visual Studio 2015\Projects\Aufwachen\Aufwachen\obj\Debug\Aufwachen.vbprojResolveAssemblyReference.cache

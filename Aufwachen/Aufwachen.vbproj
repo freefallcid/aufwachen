@@ -25,11 +25,11 @@
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>http://tools.dominicreich.com/Aufwachen/</InstallUrl>
     <UpdateUrl>http://tools.dominicreich.com/Aufwachen/</UpdateUrl>
-    <SupportUrl>http://tmsn.at/%3ftools&amp;aufwachen</SupportUrl>
+    <SupportUrl>http://klamm.io</SupportUrl>
     <ErrorReportUrl>https://github.com/freefallcid/aufwachen/issues</ErrorReportUrl>
     <ProductName>Aufwachen</ProductName>
     <PublisherName>Dominic Reich</PublisherName>
-    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationRevision>2</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
